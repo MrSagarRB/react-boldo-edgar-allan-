@@ -1,0 +1,93 @@
+.home_container {
+}
+
+.home_container header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 42px;
+  width: 1200px;
+  margin-top: 50px;
+}
+.home_container nav a {
+  color: #fff;
+  padding: 20px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+header button {
+  padding: 8px 40px;
+  border-radius: 24px;
+  color: #0a2640;
+  border: 2px solid #ffffff;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.body_div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 567px;
+  height: 310px;
+  margin-top: 7rem;
+}
+
+.body_div h1 {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 72px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.body_div p {
+  color: #f1f1f1;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.button_div {
+  margin-top: 3rem;
+}
+.button_div button {
+  margin-right: 1rem;
+}
+
+.buy_template {
+  align-items: center;
+  padding: 16px 56px;
+  background: #65e4a3;
+  border: 2px solid #69e6a6;
+  border-radius: 56px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.explore {
+  padding: 16px 56px;
+  border: 2px solid #ffffff;
+  border-radius: 56px;
+  background: transparent;
+  color: #fff;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+}
